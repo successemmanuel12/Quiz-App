@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Total Quiz</string>
+    <string name="title_activity_sports">Sports</string>
+    <string name="title_activity_bible">Bible</string>
+    <string name="title_activity_food">Food and Nutrition Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_general">General Quiz Questions</string>
+</resources>
